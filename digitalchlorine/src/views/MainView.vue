@@ -2,6 +2,7 @@
 import HeaderComponent from '../components/HeaderComponent.vue'
 import HeroBannerComponent from '../components/HeroBannerComponent.vue'
 import AboutComponent from '../components/AboutComponent.vue'
+import WorkComponent from '../components/WorkComponent.vue'
 </script>
 
 <template>
@@ -9,5 +10,6 @@ import AboutComponent from '../components/AboutComponent.vue'
     <main>
         <HeroBannerComponent />
         <AboutComponent />
+        <WorkComponent />
     </main>
 </template>
