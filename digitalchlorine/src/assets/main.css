@@ -86,3 +86,14 @@
     font-weight: var(--fw-light);
     font-size: var(--fs-14);
 }
+
+@media screen and (max-width: 480px ) {
+    .header__nav--link{
+        background-color: hsl(var(--clr-dark));
+        padding: 0.4em 0.9em;
+        color: hsl(var(--clr-light));
+        text-decoration: none;
+        font-size: var(--fs-10);
+        border: 2px solid  hsl(var(--clr-dark));
+    }
+}

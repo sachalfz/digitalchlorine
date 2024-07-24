@@ -2,7 +2,7 @@
 </script>
 
 <template>
-    <div class="about baserules">
+    <div class="about baserules" id="about">
         <p class="about--title">ABOUT.</p>
         <div class="about__content">
             <p class="about__content--text">
