@@ -54,7 +54,14 @@
                 </div>
             </div>
 
+            <div class="otherproject__expand">
+                <img src="../assets/icons/expand-white.png" alt="" class="otherproject__expand--img">
+            </div>
+
             <div class="otherproject__header" @click="toggleProjects">
+                <div class="otherproject__expand">
+                    <img src="../assets/icons/expand-white.png" alt="" class="otherproject__expand--img">
+                </div>
                 <p class="otherproject__header--title">OTHER PROJECTS</p>
                 <img src="../assets/icons/arrow.svg" alt="arrow" class="otherproject__header--svg" :class="{'rotated': isOpen}">
             </div>

@@ -177,6 +177,18 @@ body{
     color: hsl(var(--clr-light));
 }
 
+.otherproject__expand{
+    position: absolute;
+    right: -35%;
+    top: -27px;
+    cursor: pointer;
+
+}
+
+.otherproject__expand--img{
+    width: 8rem;
+}
+
 .otherproject__header{
     display: flex;
     flex-direction: row;
@@ -184,6 +196,8 @@ body{
     gap: 1rem;
     margin-bottom: -1rem;
     cursor: pointer;
+    overflow: visible;
+    position: relative;
 }
 
 .otherproject__header--title{
