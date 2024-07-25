@@ -5,7 +5,7 @@
     <div class="about baserules" id="about">
         <p class="about--title">ABOUT.</p>
         <div class="about__content">
-            <p class="about__content--text">
+            <p class="about__content--text targetElement">
                 I am digitalchlorine, an independent artist specializing in <span class="semi-bold">Album covers</span>, <span class="semi-bold">Prints</span>, and <span class="semi-bold">Posters</span>. <br><br>
 
                 My work primarily involves Photoshop, Illustrator, and Blender, allowing me to create visually <span class="semi-bold">striking</span> and <span class="semi-bold">immersive</span> art. <br><br>
