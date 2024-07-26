@@ -20,6 +20,24 @@
 
             <div class="headproject">
                 <div class="headproject__images">
+                    <img src="../assets/images/knight1.png" alt="album 1" class="headproject__images--img">
+                    <div class="headproject__images__sub">
+                        <img src="../assets/images/knight2.png" alt="album 1" class="headproject__images__sub--img">
+                        <img src="../assets/images/knight3.png" alt="album 1" class="headproject__images__sub--img">
+                    </div>
+                </div>
+                <div class="headproject__text">
+                    <p class="headproject__text--title">FALLEN SOUL</p>
+                    <p class="headproject__text--subtitle">personal project.</p>
+                    <p class="headproject__text--desc">
+                        This piece represents the intense emotions I felt during its creation. 
+                        Using predominantly red tones and 3D art, I aimed to convey my distress and inner turmoil in a powerful visual form.
+                    </p>
+                </div>
+            </div>  
+
+            <div class="headproject">
+                <div class="headproject__images">
                     <img src="../assets/images/exitlutherrework10.png" alt="album 1" class="headproject__images--img">
                     <div class="headproject__images__sub">
                         <img src="../assets/images/exitlutherrework11.png" alt="album 1" class="headproject__images__sub--img">
