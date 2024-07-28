@@ -20,6 +20,23 @@
 
             <div class="headproject">
                 <div class="headproject__images">
+                    <img src="../assets/images/miki1.png" alt="album 1" class="headproject__images--img">
+                    <div class="headproject__images__sub">
+                        <img src="../assets/images/miki2.png" alt="album 1" class="headproject__images__sub--img">
+                        <img src="../assets/images/miki3.png" alt="album 1" class="headproject__images__sub--img">
+                    </div>
+                </div>
+                <div class="headproject__text">
+                    <p class="headproject__text--title">MIKI - échec et mat</p>
+                    <p class="headproject__text--subtitle">alternative cover.</p>
+                    <p class="headproject__text--desc">
+                        I created an alternative cover for Miki's song "Échec et Mat." Using a chessboard to illustrate the song, I depicted a pool of blood at the base of the fallen king piece to represent the pain and sadness conveyed in the track.
+                    </p>
+                </div>
+            </div>  
+
+            <div class="headproject">
+                <div class="headproject__images">
                     <img src="../assets/images/knight1.png" alt="album 1" class="headproject__images--img">
                     <div class="headproject__images__sub">
                         <img src="../assets/images/knight2.png" alt="album 1" class="headproject__images__sub--img">
