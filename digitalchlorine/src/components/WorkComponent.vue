@@ -20,6 +20,23 @@
 
             <div class="headproject">
                 <div class="headproject__images">
+                    <img src="../assets/images/god.png" alt="album 1" class="headproject__images--img">
+                    <div class="headproject__images__sub">
+                        <img src="../assets/images/god2.png" alt="album 1" class="headproject__images__sub--img">
+                        <img src="../assets/images/god3.png" alt="album 1" class="headproject__images__sub--img">
+                    </div>
+                </div>
+                <div class="headproject__text">
+                    <p class="headproject__text--title">MET GOD</p>
+                    <p class="headproject__text--subtitle">personal project.</p>
+                    <p class="headproject__text--desc">
+                        I created a personal project that depicts Jesus on a cross at the back of a dark container. Subtle green lighting accents the scene, adding to the somber and contemplative atmosphere.
+                    </p>
+                </div>
+            </div> 
+            
+            <div class="headproject">
+                <div class="headproject__images">
                     <img src="../assets/images/miki1.png" alt="album 1" class="headproject__images--img">
                     <div class="headproject__images__sub">
                         <img src="../assets/images/miki2.png" alt="album 1" class="headproject__images__sub--img">
